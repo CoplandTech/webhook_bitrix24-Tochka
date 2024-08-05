@@ -1,2 +1,2 @@
-# webhook_bitrix24-Tochka
-Webhook получения QR-кода банка Tochka в Bitrix 24
+# Webhook получения QR банк Tochka в Bitrix24
+Простой Webhook получения QR-кода на оплату банка Tochka в систему Bitrix 24 из сделок
